@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+body {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  background-image: url("https://imgur.com/eoS6lSC.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: 	#3CB371;
+  margin: 0 0 5px;
+  background-color: #E0FFFF;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+  background-color: #32CD32;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 350px;
+}
+
+.result {
+  color: #2F4F4F;
+  background-color: #E0FFFF;
+  font-size: 22px;
+}
