@@ -12,15 +12,15 @@
 ### 🗃 Tópicos 
 
 
-- 📇 [Sobre a imersão](📇-Sobre-a-imersão);
+- 📇 Sobre a imersão;
 
-- 🔏 [Conhecimentos adquiridos](🔏-Conhecimentos-adquiridos);
+- 🔏 Conhecimentos adquiridos;
 
-- 🗂 [Projetos desenvolvidos](🗂-Projetos-desenvolvidos);
+- 🗂 Projetos desenvolvidos;
 
-- 🖧 [Como executar](🖧-Como-executar);
+- 🖧 Como executar;
 
-- ⚒ [Tecnologias](⚒-Tecnologias).
+- ⚒ Tecnologias.
 
 ---
 ## 📇 Sobre a imersão 
@@ -30,19 +30,19 @@
 -
 
 ## 🗂 Projetos desenvolvidos
-- [**Aula 01: Conversor de moedas**]();
-- [**Aula 02: Mentalista**]();
+- [**Aula 01: Conversor de Moedas;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_1)
+- [**Aula 02: Mentalista;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_2)
 
 ## 🖧 Como executar
 
 1. Clonar o repositório:
 ```
-git clone 
+git clone https://github.com/RenanWuicik7/IMERSAO.dev_6.git
 ```
 
-2. Localizar e acessar a pasta "";
+2. Localizar e acessar a pasta:
 ```
-cd imersao-dev-6
+cd IMERSAO.dev_6
 ```
 
 ## ⚒ Tecnologias
