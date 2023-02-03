@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+body {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  background-image: url("https://imgur.com/1rPiOCv.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  font-size: 25px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #2F4F4F;
+  margin-top: 5px;
+  background: #98FB98;
+}
+
+.page-logo {
+  background-color: #9ACD32;
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+img {
+  margin: 30px 20px;
+  max-height: 250px;
+}
+
+
+
+
+#listaFilmes img {
+  margin: 10px;
+  max-height: 250px;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #3CB371;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
+
+.nomeDosItems {
+  font-size: 20px;
+}
