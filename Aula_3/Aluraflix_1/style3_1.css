@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+body {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  background-image: url("https://imgur.com/t8evzJR.jpg");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  font-size: 25px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #2F4F4F;
+  margin: 0 0 5px;
+  background-color: #98FB98;
+}
+
+.page-subtitle {
+  color: #2F4F4F;
+  margin-top: 5px;
+  background-color: #32CD32;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.page-logo {
+  width: 200px;
+  background-color: #9ACD32;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+img {
+  margin: 30px 20px;
+  max-height: 250px;
+}
+
+div {
+  display: inline-block;
+  position: relative;  
+}
+
+p {
+  font-size: 25px;
+  color: #2F4F4F;
+  background-color: #E0FFFF;
+  background-size: 10px;
+  background-position: center;
+}
+
+.nomesDosItens {
+  font-size: 20px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  top: 280px;
+  left: 10px;
+  right: 10px;
+  bottom: -35px;
+  background-color: #2F4F4F;
+}
