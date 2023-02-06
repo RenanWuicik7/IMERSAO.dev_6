@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+body {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  background-image: url("https://imgur.com/1rPiOCv.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+#container {
+  text-align: center;
+  padding: 20px;
+}
+
+#page-title {
+  font-size: 150px;
+  color: #00ff7f;
+  margin: 0 0 5px;
+}
+
+#page-subtitle {
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+  background-color: #9ACD32;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+img {
+  margin: 30px 20px;
+  max-height: 250px;
+}
+
+div {
+  display: inline-block;
+  position: relative;  
+}
+
+p {
+  font-size: 30px;
+  color: #2F4F4F;
+  background-color: #E0FFFF;
+  background-size: 10px;
+  background-position: center;
+}
+
+#listaFilmes img {
+  margin: 10px;
+  max-height: 250px;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #556B2F;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+  color: #00FA9A;
+}
+
+.form-wrapper button:active {
+  background-color: #E0FFFF;
+  font-size: 20px
+}
+
+.form-wrapper p {
+  background: none;
+  text-shadow: 1px 1px 0.5px #7FFF00;
+  font-weight: bold;
+}
+
+#link {
+  background: none;
+}
+
+#link:hover {
+  transition: 0.7s;
+  background-color: #98FB98;
+}
+
+#trailer {
+  background: none;
+}
+
+#trailer:hover {
+  transition: 0.7s;
+  background-color: #98FB98;
+}
+
+.card-filme {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  height:250px;
+  width:180px;
+  margin-bottom: 50px;
+}
+
+.botao-remover-filme {
+  width:80px;
+  color:white;
+  background: #da1e26;
+  cursor: pointer;
+}
+
+.nomesDosItens {
+  font-size: 20px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  top: 280px;
+  left: 10px;
+  right: 10px;
+  bottom: -35px;
+  background-color: #2F4F4F;
+}
