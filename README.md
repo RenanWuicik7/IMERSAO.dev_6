@@ -50,6 +50,9 @@ Métodos do Javascript: ``toFixed(), prompt(), Math.random(), document.write(), 
 
 #### O que foi desenvolvido:
 <p style="text-align: center">Abaixo temos um gif mostrando a execução de alguns dos projetos que foram feitos durante essa imersão:
+<p align="center">
+  <img src="Animação(main)-min.gif" alt='logo da imersao.dev_'/>
+</p>
 
 ## 🖧 Como executar
 
