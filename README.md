@@ -27,7 +27,7 @@
 
 #### Execução:
 <p align="center">
-  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="Animação(5).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
 
 
