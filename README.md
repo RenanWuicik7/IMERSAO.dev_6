@@ -30,6 +30,9 @@
   - [**Catalogo de Mídias com botão de adição de imagens**](https://codepen.io/RenanAlura7/pen/mdjaeGx)
 
 #### Execução:
+<p align="center">
+  <img src="https://imgur.com/MgWXgyd.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+</p>
 
 ### Materiais complementares
 - [Documentação da MDN sobre arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array).
