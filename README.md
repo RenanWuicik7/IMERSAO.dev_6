@@ -1,83 +1,40 @@
-<h1 align="center"> 🤿 Imersão Dev 6° Edição 🤿 </h1>
+<h1 align="center"> 🤿 Alura - Imersão Dev 6🤿 </h1>
 
-<p align="center">
-  <img src="https://imgur.com/OHrLFNw.png" alt='logo da imersao.dev_'/>
-</p>
+<h2 align="center">Aula 06 - Tabela de pontos</h2>
 
-<p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
-    <img src='https://img.shields.io/badge/Status-Em progresso-DBD375?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é amarelo e contém o texto "Em progresso".'>
-</p>
+### Sumário 
 
-### 🗃 Tópicos 
+- [Descrição](#descrição)
 
+- [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-- 📇 Sobre a imersão;
+- [Desafios](#desafios)
 
-- 🔏 Conhecimentos adquiridos;
+- [Materiais complementares](#materiais-complementares)
 
-- 🗂 Projetos desenvolvidos;
-
-- 🖧 Como executar;
-
-- ⚒ Tecnologias.
+- [Tecnologias](#tecnologias)
 
 ---
-## 📇 Sobre a imersão 
-- De 30 de janeiro até 06 de fevereiro, em 2023, eu participei de um evento maravilhoso que foi promovido pela empresa [Alura](https://www.alura.com.br/), e adquiri vários conhecimentos agregadores que sei que vão ajudar bastante em meu futuro!me 
-- Durante esse evento eu consegui ajudar me algumas pessoas, fui auxiliado, e consegui ter muitas interações maravilhosas que agregaram muito para a minha experiência na área da programação. Durante esse periodo houveram aulas focadas na àrea de front-end contendo aulas das linguagens **HTML, CSS e JavaScript**, haviam desafios diários, um servidor do Discord específico para os alunos interagirem por lá, trocar seus conhecimentos e postar seus resultados.
+### Descrição
+Na quinta aula, trabalhamos com tabelas e tivemos introduções de alguns funcionamentos de HTMl, para que os alunos entendessem como as tabelas funcionam.
 
-## 🔏 Conhecimentos adquiridos
-- Apresentação do editor de código-fonte (CodePen);
-- Aprofundamento na linguagem JavaScript: variáveis, operações matemáticas básicas, arredondamentos, concatenação e interatividade por meio de alertas;
-- Uso da tag `` ´´ `` ;
-- Mostrar um elemento no HTML usando JS usando ``document.write('img src=' + nome + '>');`` ;
-- Usar a sintaxe de cifrão para colocar JS ``${}`` dentro do HTML;
-- Importar do mundo HTML para o JS usando ``document.getElementById().value`` colocado em uma variável;
-- Limpar o input após preenchimento atribuindo valor nulo ``""``;
-- Criação de um objeto usando chaves no momento de criar uma variável {} ;
-- Uso de crase para escrever ao mesmo tempo JS e HTML;
-- Uso do console.log, .innerHTML, .getElementById , ++ ;
-Métodos do Javascript: ``toFixed(), prompt(), Math.random(), document.write(), push(), splice()``;
+### Conhecimentos adquiridos
+- O que são objetos no Javascript;
+- O que são e como criar classes;
+- Utilização de funções para integrar o Javascript com o HTML;
+- Como utilizar o método de atribuição com incremento com `+=`;
+- Como somar valores a uma variável com `++`;
 - Como usar template literals (template string).
+- Como criar um tabela no JS e desenhar ela no HTML;
+- Como colocar botões no HTML por meio do JS;
+- Como trabalhar com listas usando tabelas do HTMl.
 
-## 🗂 Projetos desenvolvidos
-- [**Aula 01: Conversor de Moedas;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_1)
-- [**Aula 02: Mentalista;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_2)
-- [**Aula 03: AluraFlix e Filmes Array**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_3)
-- [**Aula 04: AluraFlix e Filmes Preferidos**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_4)
-- [**Aula 05: Tabela De Pontos**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_5)
+### Desafios
+- Nessa aula fomos desafiados à fazer uma tabela/placar de pontuação de jogadores, uma que monitorasse vitória, empate, derrota, e pontos.
+- Eu optei por fazer uma tabela de status de um jogador de RPG de mesa, onde você pode adicionar jogadores, adaptar os status, reiniciar o numero dos status e subir o nivel dos jogadores e contem um mini tutorial no fim:
 
-#### O que foi desenvolvido:
-<p style="text-align: center">Abaixo temos um gif mostrando a execução de alguns dos projetos que foram feitos durante essa imersão:
+#### Execução:
 
-## 🖧 Como executar
-
-1. Clonar o repositório:
-```
-git clone https://github.com/RenanWuicik7/IMERSAO.dev_6.git
-```
-
-2. Localizar e acessar a pasta:
-```
-cd IMERSAO.dev_6
-```
-
-## ⚒ Tecnologias
--  **Ferramentas:**
-> [<img src="https://imgur.com/vT4lzMh.png" style="width: 87px">](https://codepen.io/)
-
-> [<img src="https://imgur.com/o9tQiOu.png" style="width: 127px">](https://www.sublimetext.com/)
-
-
--  **Framework:**
-> [<img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-> [<img align="center" alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-> [<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## 👨‍💻 Desenvolvido e Projetado Por:
-
-| [<img src="https://user-images.githubusercontent.com/113643260/215874132-f00f132b-749d-4ab4-ba50-1c7699784659.jpg" width=115><br><sub>Renan Cezar Wuicik</sub>](https://github.com/RenanWuicik7) |
-| :---: |
+<p align="center">
+  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+</p>
