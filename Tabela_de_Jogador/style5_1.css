@@ -1,0 +1,76 @@
+* {
+  text-align: center;
+}
+
+body {
+  min-height: 400px;
+  background-image: url("https://imgur.com/PaK75PK.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-image: url("https://imgur.com/mYBaesd.jpg");
+  }
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+h1 {
+  color: white;
+}
+
+h2, h3, p, ul {
+  background-color: #EEE8AA;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+}
+
+button {
+  background-color: #002351;
+  color: #f6f6f6;
+}
+
+.botao-novo-status {
+  width: 80px;
+  color: white;
+  background: none;
+  cursor: pointer;
+}

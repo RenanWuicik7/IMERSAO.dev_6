@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style5_1.css">
+    <title>Tabela De Rpg</title>
+</head>
+<body>
+  <h1>Status of Player´s</h1>
+
+  <table style="width:100%">
+    <thead>
+      <tr>
+       <th>Nome</th>
+       <th>Level</th>
+       <th>HP</th>
+       <th>MP</th>
+       <th>STM</th>
+       <th>DEF</th>
+       <th>Poder Total:</th>
+       <th colspan="3">Actions</th>
+      </tr>
+    </thead>
+    <tbody id="tabelaJogadores">
+    </tbody>
+  </table>
+  <br>
+  <button onclick="subirDeNivel()">Subir de Nível</button>
+  <button onclick="zerarTudo()">Reiniciar Pontuação</button>
+  <button onclick="adicionarJogador()">Adicionar Jogador</button>
+
+  <h4>Mini Tutorial:</h4>
+
+  <h2>Manual de Uso Do Programa</h2>
+
+  <p>Para você usar esse placar, primeiramente você deve preencher o seu nome na mensagem que é gerada no inicio!</p>
+
+  <p>Após isso você deve começar a personalização da tabela usando a os botões na area de ações!</p>
+
+  <p>E ao usar eles irá aparecer uma mensagem que irá perguntar se você deseja adicionar ou remover pontos.</p>
+
+  <p><b>Para Adicionar Pontos:</b> Para adicionar pontos você deve clicar/digitar o numero 1 na caixa que aparece ao clicar no botão que corresponde a seção que você quer alterar. Depois você somente precisa adicionar a quantidade de pontos que desejar.</p>
+
+  <p><b>Para Remover Pontos:</b> Para remover pontos você deve clicar/digitar o numero 2 na caixa que aparece ao clicar no botão que corresponde a seção que você quer alterar. Depois disso é só colocar o numero de pontos que você deseja remover, <i><u>tente evitar de deixar os números negativos, pois isso pode estragar a logística do placar.</u></i></p>
+
+  <h3><b>Sobre as seções e suas funções:</b></h3>
+
+  <ul>
+     <li style="text-align: left;"><b>HP(Hit Points):</b> Essa seção corresponde à sua vida, basicamente corresponde a quanto de vida e vitalidade seu personagem pode aguentar, e para recuperar ela pode ser usadas poções, ou descansando;</li>
+     <li style="text-align: left;"><b>MP(Magic Points):</b> Corresponde à seu poder mágico, essa serve para indicar o nivel e quantidade de magias você pode usar. Para recuperar ela pode ser usadas poções, ou descansando.</li>
+     <li style="text-align: left;"><b>STM(Stamina):</b> Essa seção corresponde à sua energia, ou seja, o quanto longe você consegue ir, ela é gasta ao fazer as tarefas do dia-a-dia, lutando, e para recuperar ela pode ser usadas poções, ou descansando.</li>
+     <li style="text-align: left;"><b>DEF(Defense):</b> Essa seção corresponde à defesa do personagem, ou melhor, o quanto ele consegue apanhar sem sofrer dano, ela serve para indicar o quanto ele pode se proteger, e para recuperar ela pode ser usadas poções, ou descansando.</li>
+  </ul>
+</body>
+<script src="script5_1.js"></script>
+</html>
