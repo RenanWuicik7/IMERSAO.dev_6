@@ -44,9 +44,12 @@ Métodos do Javascript: ``toFixed(), prompt(), Math.random(), document.write(), 
 ## 🗂 Projetos desenvolvidos
 - [**Aula 01: Conversor de Moedas;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_1)
 - [**Aula 02: Mentalista;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_2)
-- [**Aula 03**]()
-- [**Aula 04**]()
-- [**Aula 05**]()
+- [**Aula 03: AluraFlix e Filmes Array**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_3)
+- [**Aula 04: AluraFlix e Filmes Preferidos**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_4)
+- [**Aula 05: Tabela De Pontos**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_5)
+
+#### O que foi desenvolvido:
+<p style="text-align: center">Abaixo temos um gif mostrando a execução de alguns dos projetos que foram feitos durante essa imersão:
 
 ## 🖧 Como executar
 
