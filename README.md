@@ -1,65 +1,42 @@
-<h1 align="center"> 🤿 Imersão Dev 6° Edição 🤿 </h1>
+<h1 align="center"> 🤿 Alura - Imersão Dev 6 🤿 </h1>
 
-<p align="center">
-  <img src="https://imgur.com/OHrLFNw.png" alt='logo da imersao.dev_'/>
-</p>
+<h2 align="center">Aula 04 - AluraFlix e Filmes Preferidos</h2>
 
-<p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
-    <img src='https://img.shields.io/badge/Status-Em progresso-DBD375?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é amarelo e contém o texto "Em progresso".'>
-</p>
+### Sumário 
 
-### 🗃 Tópicos 
+- [Descrição](#descrição)
 
+- [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-- 📇 Sobre a imersão;
+- [Desafios](#desafios)
 
-- 🔏 Conhecimentos adquiridos;
+- [Materiais complementares](#materiais-complementares)
 
-- 🗂 Projetos desenvolvidos;
-
-- 🖧 Como executar;
-
-- ⚒ Tecnologias.
+- [Tecnologias](#tecnologias)
 
 ---
-## 📇 Sobre a imersão 
--
+### Descrição
 
-## 🔏 Conhecimentos adquiridos
--
+Na quarta aula, demos continuidade para o projeto de Aluraflix, aqui nós aprofundamos o nosso entendimento do JavaScript, pois praticamos adição e remoção de elementos criados e removidos no JavaScript sendo colocados no HTML. 
 
-## 🗂 Projetos desenvolvidos
-- [**Aula 01: Conversor de Moedas;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_1)
-- [**Aula 02: Mentalista;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_2)
+### Conhecimentos adquiridos
+- Importância de seguir os padrões de sintaxe do Javascript;
+- Integração entre HTML e Javascript;
+- Uso do `getElementById`;
+- Uso ``apendChild()``;
+- Uso do ``createElement(tag)``;
+- E outros parâmetros.
 
-## 🖧 Como executar
+### Desafios
+- Nessa aula fomos desafiados à criar um botão para remover o filme adicinado usando o código da aula anterior.
 
-1. Clonar o repositório:
-```
-git clone https://github.com/RenanWuicik7/IMERSAO.dev_6.git
-```
+#### Execução:
+<p align="center">
+  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+</p>
 
-2. Localizar e acessar a pasta:
-```
-cd IMERSAO.dev_6
-```
-
-## ⚒ Tecnologias
--  **Ferramentas:**
-> [<img src="https://imgur.com/vT4lzMh.png" style="width: 87px">](https://codepen.io/)
-
-> [<img src="https://imgur.com/o9tQiOu.png" style="width: 127px">](https://www.sublimetext.com/)
-
-
--  **Framework:**
-> [<img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-> [<img align="center" alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-> [<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## 👨‍💻 Desenvolvido e Projetado Por:
-
-| [<img src="https://user-images.githubusercontent.com/113643260/215874132-f00f132b-749d-4ab4-ba50-1c7699784659.jpg" width=115><br><sub>Renan Cezar Wuicik</sub>](https://github.com/RenanWuicik7) |
-| :---: |
+### Materiais complementares
+- [O que é Git e GitHub](https://youtu.be/nec3n02idMw)
+- Iterações são parte importante do estudo de lógica de programação e nem sempre a gente pega de primeira. Por isso, produzimos um [vídeo extra](https://www.youtube.com/watch?v=c8Zac9hWbs8) para você dar um gás nesse tema e tirar suas dúvidas. Ou ter dúvidas novas, o que também é bom!
+- [Refazendo a aula 1 com outra linguagem de programação](https://www.youtube.com/watch?v=DsFb24TgJ0c)
+- [Como abrir um programa do CodePen no VSCode](https://www.youtube.com/watch?v=xvkuNF_8Coc)
