@@ -24,14 +24,29 @@
 
 ---
 ## 📇 Sobre a imersão 
--
+- De 30 de janeiro até 06 de fevereiro, em 2023, eu participei de um evento maravilhoso que foi promovido pela empresa [Alura](https://www.alura.com.br/), e adquiri vários conhecimentos agregadores que sei que vão ajudar bastante em meu futuro!me 
+- Durante esse evento eu consegui ajudar me algumas pessoas, fui auxiliado, e consegui ter muitas interações maravilhosas que agregaram muito para a minha experiência na área da programação. Durante esse periodo houveram aulas focadas na àrea de front-end contendo aulas das linguagens **HTML, CSS e JavaScript**, haviam desafios diários, um servidor do Discord específico para os alunos interagirem por lá, trocar seus conhecimentos e postar seus resultados.
 
 ## 🔏 Conhecimentos adquiridos
--
+- Apresentação do editor de código-fonte (CodePen);
+- Aprofundamento na linguagem JavaScript: variáveis, operações matemáticas básicas, arredondamentos, concatenação e interatividade por meio de alertas;
+- Uso da tag `` ´´ `` ;
+- Mostrar um elemento no HTML usando JS usando ``document.write('img src=' + nome + '>');`` ;
+- Usar a sintaxe de cifrão para colocar JS ``${}`` dentro do HTML;
+- Importar do mundo HTML para o JS usando ``document.getElementById().value`` colocado em uma variável;
+- Limpar o input após preenchimento atribuindo valor nulo ``""``;
+- Criação de um objeto usando chaves no momento de criar uma variável {} ;
+- Uso de crase para escrever ao mesmo tempo JS e HTML;
+- Uso do console.log, .innerHTML, .getElementById , ++ ;
+Métodos do Javascript: ``toFixed(), prompt(), Math.random(), document.write(), push(), splice()``;
+- Como usar template literals (template string).
 
 ## 🗂 Projetos desenvolvidos
 - [**Aula 01: Conversor de Moedas;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_1)
 - [**Aula 02: Mentalista;**](https://github.com/RenanWuicik7/IMERSAO.dev_6/tree/aula_2)
+- [**Aula 03**]()
+- [**Aula 04**]()
+- [**Aula 05**]()
 
 ## 🖧 Como executar
 
