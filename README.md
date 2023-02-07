@@ -36,5 +36,5 @@ Na quinta aula, trabalhamos com tabelas e tivemos introduções de alguns funcio
 #### Execução:
 
 <p align="center">
-  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="Animação(8).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
