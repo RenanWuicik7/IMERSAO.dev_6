@@ -1,6 +1,6 @@
 <h1 align="center"> 🤿 Alura - Imersão Dev 6 🤿 </h1>
 
-<h2>Aula 02 - Mentalista</h2>
+<h2 align="center">Aula 02 - Mentalista</h2>
 
 ### Sumário 
 
