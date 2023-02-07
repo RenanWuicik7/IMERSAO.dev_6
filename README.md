@@ -28,7 +28,8 @@ Na quarta aula, demos continuidade para o projeto de Aluraflix, aqui nós aprofu
 - E outros parâmetros.
 
 ### Desafios
-- Nessa aula fomos desafiados à criar um botão para remover o filme adicinado usando o código da aula anterior.
+- Nessa aula fomos desafiados à criar um botão para remover o filme adicionado usando o código da aula anterior.
+- Segue link para acesso: [**AluraFlix Com Adição e Remoção de Midias**](https://codepen.io/RenanAlura7/pen/JjBwRdy)
 
 #### Execução:
 <p align="center">
