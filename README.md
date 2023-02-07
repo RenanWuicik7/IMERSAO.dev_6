@@ -31,7 +31,7 @@
 
 #### Execução:
 <p align="center">
-  <img src="https://imgur.com/MgWXgyd.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="aula3.png" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência."/>
 </p>
 
 ### Materiais complementares
