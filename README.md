@@ -32,7 +32,7 @@ Na quarta aula, demos continuidade para o projeto de Aluraflix, aqui nós aprofu
 
 #### Execução:
 <p align="center">
-  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="Animação(aula4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
 
 ### Materiais complementares
