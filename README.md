@@ -32,6 +32,7 @@ Na quinta aula, trabalhamos com tabelas e tivemos introduções de alguns funcio
 ### Desafios
 - Nessa aula fomos desafiados à fazer uma tabela/placar de pontuação de jogadores, uma que monitorasse vitória, empate, derrota, e pontos.
 - Eu optei por fazer uma tabela de status de um jogador de RPG de mesa, onde você pode adicionar jogadores, adaptar os status, reiniciar o numero dos status e subir o nivel dos jogadores e contem um mini tutorial no fim:
+- Link de uso do projeto: [Tabela de monitoração de status de RPG de Mesa](https://codepen.io/RenanAlura7/pen/jOpRgyv)
 
 #### Execução:
 
