@@ -33,7 +33,7 @@
 
 #### Execução:
 <p align="center">
-  <img src="imagens/Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="Animação(4).gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
 
 ## Materiais complementares
